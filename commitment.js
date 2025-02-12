@@ -1,0 +1,6 @@
+let n=1;
+
+while(n <= 60 ){
+    console.log("I will invest at least 6 hrs every single day for next "+(n)+" days!")
+    n++;
+}
